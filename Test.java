@@ -25,7 +25,7 @@ public class Test {
 	}
 	
 	public static void main(String[] args) {
-		Sytem.out.println("随机双色球");
+		Sytem.out.println("随机双色球：");
 		int[] Rball = SelectRball(); 
 		int Bball = SelectBball();
 		for(int i = 0; i < 6; i++)
